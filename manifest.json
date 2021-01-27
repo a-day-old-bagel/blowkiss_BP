@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "adob:Blow A Kiss",
+        "description": "Give half a heart to someone in need by blowing them a kiss.",
+        "uuid": "8a920c78-7deb-416f-9873-d1220f5579d6",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "cf823852-1ce5-4400-ba6b-3ebdfa82677e",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "e9c101ce-d3da-4402-a2fd-e3e9ae947ec5",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
